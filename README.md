@@ -1,2 +1,2 @@
 #arcoiris
-##A test static website for an HTML Fundamentals course.
+##A test static website for an HTML Fundamentals course.
