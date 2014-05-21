@@ -1,12 +1,13 @@
 body {	
-
-}
-
-.container {
+	font-family: 'Roboto Slab', serif;
 	text-align: center;
 }
 
-.list {
+a {
+	color: #00FF99;
+}
+
+ul {
 	text-align: justify;
 	display: inline-block;
 }
